@@ -1,3 +1,3 @@
-a,b,d=map(int,input().split())
-c=(3*a)-(d+b)
-print(c)
+a,b,c=map(int,input().split())
+d=3*a-(b+c)
+print(d)
